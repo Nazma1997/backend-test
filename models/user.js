@@ -4,15 +4,15 @@ const userScheme =new Schema({
   
   name: {
     type: String,
-    required: true,
+    // required: true,
   },
   sector: {
     type: String,
-    required: true,
+    // required: true,
   },
   checkbox: {
     type: Boolean,
-    required: true,
+    // required: true,
   },
   
 
